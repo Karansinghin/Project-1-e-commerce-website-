@@ -9,4 +9,4 @@ Shopping Cart: Add, remove, and view items in the cart.
 Checkout: Provide shipping details and choose from multiple payment options.
 Installation
 Clone the Repository
-git clone https://github.com/aryanagarwal28/innovateTech-website/tree/main
+git clone https://github.com/Karansinghin/Project-1-e-commerce-website-/edit/main
